@@ -28,7 +28,7 @@ public class EmailController {
 
 	static String emailToRecipient;
 	static String emailSubject, emailMessage;
-	static final String emailFromRecipient = "chandrakantkushwaha89@gmail.com"; //<!-- Source Email Address -->
+	static final String emailFromRecipient = "ENTER YOUR EMAIL"; //<!-- Source Email Address -->
 
 	static ModelAndView modelViewObj;
 
